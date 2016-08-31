@@ -10,7 +10,7 @@ import library.interfaces.entities.ILoan;
 import library.interfaces.entities.IMember;
 
 /**
- * @author user
+ * @author Kishantha
  *
  */
 public class Member implements IMember {
