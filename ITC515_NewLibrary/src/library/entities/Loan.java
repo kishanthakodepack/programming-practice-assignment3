@@ -13,7 +13,7 @@ import library.interfaces.entities.IMember;
  * @author user
  *
  */
-public class Load implements ILoan {
+public class Loan implements ILoan {
 
 	/* (non-Javadoc)
 	 * @see library.interfaces.entities.ILoan#commit(int)
